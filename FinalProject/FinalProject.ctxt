@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FinalProject
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=difficultyChoice
+comment2.target=int\ diffchooser(int)
+comment3.params=realBoard\ showBoard\ difficultyChoice\ sideLength
+comment3.target=void\ mineChooser(char[][],\ char[][],\ int,\ int)
+comment4.params=realBoard\ showBoard\ mineLocation1\ mineLocation2\ sideLength
+comment4.target=void\ numberPlacement(char[][],\ char[][],\ int,\ int,\ int)
+numComments=5
