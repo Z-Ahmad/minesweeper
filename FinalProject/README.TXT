@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Minesweeper
+PURPOSE OF PROJECT: Final Project for Computer Science
+VERSION or DATE: 
+HOW TO START THIS PROJECT: open in BlueJ and run
+AUTHORS: Zaki Ahmad
 USER INSTRUCTIONS:
